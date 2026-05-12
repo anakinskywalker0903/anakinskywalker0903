@@ -199,27 +199,23 @@ Canvas-based brainstorming with AI-assisted ideation workflows. Built for creati
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anakinskywalker0903&theme=github_dark" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakinskywalker0903&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=FFFFFF" width="49%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anakinskywalker0903&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anakinskywalker0903&theme=github_dark"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anakinskywalker0903&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anakinskywalker0903&theme=github_dark&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anakinskywalker0903&theme=transparent" width="100%"/>
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anakinskywalker0903&theme=dark&hide_border=true&background=000000&ring=8B0000&fire=8B0000&currStreakLabel=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anakinskywalker0903&theme=radical&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B0000&sideLabels=8B0000&dates=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&hide_title=true&hide_rank=true" width="49%"/>
 
 </div>
 
@@ -229,7 +225,7 @@ Canvas-based brainstorming with AI-assisted ideation workflows. Built for creati
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anakinskywalker0903&bg_color=000000&color=8B0000&line=8B0000&point=FFFFFF&hide_border=true&area=true&area_color=8B0000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anakinskywalker0903&bg_color=0D1117&color=8B0000&line=8B0000&point=FFFFFF&hide_border=true&area=true&area_color=8B0000" width="100%"/>
 
 </div>
 

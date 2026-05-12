@@ -1,173 +1,336 @@
+````md
 <div align="center">
-  
-# 👋 Hi, I'm Ani (Rohit Dubey)
 
-### 🚀 B.Tech CS (AI/ML) @ VIT Bhopal | Full Stack Developer | AI Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=Rohit+Dubey;Full+Stack+Developer+in+Progress;Building+Solutions+for+Real+Problems;AI+%7C+Web+%7C+Product+Focused+Builder" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+### ⚡ B.Tech CSE (AI/ML) @ VIT Bhopal University  
+### 🚀 Problem-First Builder | Full Stack Learner | AI Enthusiast
+
+<br/>
+
+<a href="https://github.com/anakinskywalker0903">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohit-dubey-41191319a/">
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rohitdubey39005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=anakinskywalker0903&style=for-the-badge&color=8B0000"/>
 
 </div>
 
 ---
 
-## 🎯 About Me
+# ⚔️ About Me
 
-```typescript
-const ani = {
-    education: "B.Tech CS (AI/ML) @ VIT Bhopal",
-    graduation: 2028,
-    location: "India 🇮🇳",
-    currentFocus: ["Full Stack Development", "AI/ML Projects", "Problem Solving"],
-    lookingFor: "Full Stack / AI-ML Internship Opportunities",
-    funFact: "I build from ideas, not tutorials 🚀",
-    leadership: ["Finance Team", "AI Club Events", "Engineering Competitions"]
-};
+```java
+class RohitDubey {
+
+    String role = "Full Stack Developer in Progress";
+    
+    String[] interests = {
+        "Real-world problem solving",
+        "AI-assisted products",
+        "Production-grade web applications",
+        "Scalable systems"
+    };
+
+    String currentMission =
+        "Learning full stack engineering deeply after building solution-first projects.";
+
+    String mindset =
+        "From ideas on paper to products on the internet.";
+
+    String funFact =
+        "Huge sci-fi & zombie universe enthusiast 🧟";
+}
+````
+
+I enjoy identifying problems people face in daily life and building solutions around them.
+Most of my projects started because something annoyed me enough that I wanted to fix it.
+
+Currently focused on:
+
+* 🌱 Learning modern full stack development properly
+* ⚡ Strengthening backend + React fundamentals
+* 🧠 Exploring AI integrations into useful products
+* 🚀 Building projects that can scale beyond college-level demos
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Career Engine
+
+### AI-powered career guidance & opportunity platform
+
+🔗 Repo:
+[https://github.com/anakinskywalker0903/career-engine](https://github.com/anakinskywalker0903/career-engine)
+
+✨ Built during the GenAI Hackathon 2026 where the project reached:
+
+> **Top 30 teams out of 100+ teams**
+
+### Highlights
+
+* AI-assisted career guidance workflow
+* Modern product-focused UI
+* Real-world utility driven concept
+* Deployed live application
+* Built under hackathon pressure
+
+### Tech
+
+`React` `JavaScript` `AI APIs` `Vercel`
+
+---
+
+## 🚂 RailDost
+
+### Smart railway journey planning platform
+
+🔗 Repo:
+[https://github.com/anakinskywalker0903/raildost](https://github.com/anakinskywalker0903/raildost)
+
+Currently being developed toward a more production-ready architecture.
+
+### Vision
+
+A cleaner and more practical railway planning experience focused on usability and real travel problems.
+
+### Focus Areas
+
+* Better journey planning
+* Route assistance
+* User-first design
+* Scalable architecture improvements
+
+### Tech
+
+`Frontend Development` `Web APIs` `JavaScript`
+
+---
+
+## 📝 NoteLift
+
+### Chrome Extension for fast productivity note-taking
+
+🔗 Repo:
+[https://github.com/anakinskywalker0903/NoteLift](https://github.com/anakinskywalker0903/NoteLift)
+
+🔗 Chrome Web Store:
+[https://chrome.google.com/webstore/detail/appchfdfnjlebnpabaocabfjconhemjp](https://chrome.google.com/webstore/detail/appchfdfnjlebnpabaocabfjconhemjp)
+
+### Highlights
+
+* ⭐ 150+ installs
+* Lightweight productivity workflow
+* Browser-integrated note capture
+* Publicly shipped product
+
+### Tech
+
+`JavaScript` `HTML` `CSS` `Chrome Extension API`
+
+---
+
+## 💡 Brainstormzz
+
+### Interactive AI-powered ideation platform
+
+🔗 Repo:
+[https://github.com/anakinskywalker0903/Brainstormzz](https://github.com/anakinskywalker0903/Brainstormzz)
+
+🔗 Live Demo:
+[https://brainstormzz.vercel.app/](https://brainstormzz.vercel.app/)
+
+### Highlights
+
+* Canvas-based brainstorming experience
+* AI-assisted ideation workflows
+* Modern UI experimentation
+* Built for creative thinking sessions
+
+### Tech
+
+`React` `AI Integration` `Frontend Engineering` `Vercel`
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+---
+
+## ⚙️ Backend & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,vercel,netlify" />
+</p>
+
+---
+
+## 📊 AI / Data
+
+<p>
+
+* Pandas
+* NumPy
+* Matplotlib
+* Prompt Engineering
+* AI API Integration
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,figma" />
+</p>
+
+---
+
+# 🏆 Achievements & Experience
+
+## 🚀 Hackathons
+
+* 🧠 **GenAI Hackathon 2026**
+
+  * Career Engine selected among **Top 30 teams out of 100+**
+
+---
+
+## 👥 Leadership & Clubs
+
+* 💰 **Finance Co-Lead — Groovity**
+* 📊 **Finance Team Member — GSoC**
+* 🤖 **AI Club Event Team — 2+ Years**
+* 🛡️ **Defence Warrior Club — Logistics Team**
+* 🚀 **Startup Club — Event Team**
+* 🏎️ **Team AVITAR BAJA — Roll Cage Member**
+
+---
+
+# 📜 Certifications
+
+* 🎓 Applied Machine Learning in Python — University of Michigan (Coursera)
+* 🧠 Career Essentials in GitHub Professional Certificate
+* ⚡ Practical GitHub Actions
+* 🔍 Practical GitHub Code Search
+* 🤖 Practical GitHub Copilot
+* 📊 Power BI Dashboards for Beginners
+* 📈 Learning Power BI Desktop
+* 📉 Data Visualization in Python with Dash
+
+---
+
+# 🎯 Current Roadmap
+
+```text
+[✔] Build real-world products
+[✔] Deploy public projects
+[✔] Publish Chrome Extension
+[✔] Participate in Hackathons
+[✔] AI API Integration
+
+[⏳] Deep Full Stack Development
+[⏳] React Ecosystem Mastery
+[⏳] Backend Architecture
+[⏳] DSA + NeetCode
+[⏳] Production-grade Systems
+[⏳] Open Source Contributions
 ```
 
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ---
 
-## 🌟 Featured Projects
-
-### 🚂 [RailDost](https://github.com/YOUR_USERNAME/raildost)
-**Railway Journey Planning Platform**
-- Built with React & modern web technologies
-- Real-time journey planning and route optimization
-- Clean, intuitive UI/UX design
-
-**Tech Stack:** `React` `JavaScript` `REST API` `CSS3`
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/raildost)
-
----
-
-### 💡 [Brainstormzz](https://brainstormzz.vercel.app)
-**Canvas-Based Ideation Platform**
-- 🎨 Interactive canvas for visual brainstorming
-- 🤖 Powered by Chrome Built-in AI APIs
-- 🚀 Live deployment on Vercel
-- ⚡ Real-time collaboration features
-
-**Tech Stack:** `React` `Canvas API` `Chrome AI` `Vercel`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://brainstormzz.vercel.app)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/brainstormzz)
-
----
-
-### 📝 [NoteLift](https://chrome.google.com/webstore/detail/notelift/YOUR_ID)
-**Chrome Extension for Smart Note-Taking**
-- ⭐ Published on Chrome Web Store
-- 📋 Quick note capture with one click
-- 🔐 Secure local storage
-- 🎯 Productivity-focused design
-
-**Tech Stack:** `JavaScript` `Chrome Extension API` `HTML/CSS`
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web_Store-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/notelift/YOUR_ID)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/notelift)
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakinskywalker0903&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🔥 Streak Stats
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anakinskywalker0903&theme=dark&hide_border=true&background=000000&ring=8B0000&fire=8B0000&currStreakLabel=FFFFFF"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-## 💼 Currently Working On
-
-- 🔭 Building full-stack applications with modern tech stacks
-- 🌱 Deepening knowledge in AI/ML algorithms and deployment
-- 👯 Looking for collaboration on open-source projects
-- 🎯 Actively seeking Full Stack / AI-ML internship opportunities in India
-- 💡 Working on innovative side projects using cutting-edge APIs
-
----
-
-## 🎓 Leadership & Activities
-
-- 💰 **Finance Team Member** - Managing budgets and financial planning
-- 🤖 **AI Club Events Coordinator** - Organizing workshops and competitions
-- 🏆 **Engineering Competition Team** - Representing college in technical events
-
----
-
-## 📫 Let's Connect!
+# 📈 Contribution Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anakinskywalker0903&theme=github-compact&bg_color=000000&color=8B0000&line=8B0000&point=FFFFFF&hide_border=true"/>
 
-### ⚡ Fun Fact: I prefer building projects from my own ideas rather than following tutorials - that's where real learning happens! 🚀
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/anakinskywalker0903/anakinskywalker0903/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🌌 Philosophy
+
+> “Most of my projects begin with a simple thought:
+> someone else shouldn’t have to struggle with this problem either.”
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/anakinskywalker0903">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohit-dubey-41191319a/">
+  <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rohitdubey39005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -175,9 +338,9 @@ const ani = {
 
 <div align="center">
 
-### Show some ❤️ by starring ⭐ some of my repositories!
+### ⚡ Building. Learning. Iterating. Scaling.
 
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views)
+<sub>“May the force be with your deployments.”</sub>
 
 </div>
+```

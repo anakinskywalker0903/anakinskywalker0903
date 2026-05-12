@@ -29,38 +29,27 @@
 
 ## ⚔️ About Me
 
-```java
-class RohitDubey {
-
-    String role     = "Full Stack Developer in Progress";
-    String degree   = "B.Tech CSE (AI/ML) @ VIT Bhopal University";
-
-    String[] interests = {
-        "Real-world problem solving",
-        "AI-assisted products",
-        "Production-grade web applications",
-        "Scalable systems"
-    };
-
-    String currentMission =
-        "Learning full stack engineering deeply after building solution-first projects.";
-
-    String mindset =
-        "From ideas on paper to products on the internet.";
-
-    String funFact =
-        "Huge sci-fi & zombie universe enthusiast 🧟";
-}
-```
+🎓 **B.Tech CSE (AI/ML)** @ VIT Bhopal University &nbsp;|&nbsp; 🚀 **Full Stack Developer in Progress**
 
 I enjoy identifying problems people face in daily life and building solutions around them.
 Most of my projects started because something annoyed me enough that I wanted to fix it.
 
+> *"From ideas on paper to products on the internet."*
+
+**What drives me:**
+
+- 🔍 Real-world problem solving
+- 🤖 AI-assisted products
+- 🏗️ Production-grade web applications
+- 📈 Scalable systems
+
 **Currently focused on:**
+
 - 🌱 Learning modern full stack development properly
 - ⚡ Strengthening backend + React fundamentals
 - 🧠 Exploring AI integrations into useful products
 - 🚀 Building projects that can scale beyond college-level demos
+- 🧟 Huge sci-fi & zombie universe enthusiast on the side
 
 ---
 
@@ -191,45 +180,45 @@ Canvas-based brainstorming with AI-assisted ideation workflows. Built for creati
 
 ## 🎯 Current Roadmap
 
-```text
-[✔] Build real-world products
-[✔] Deploy public projects
-[✔] Publish Chrome Extension (150+ installs)
-[✔] Participate in Hackathons (Top 30 / 100+)
-[✔] AI API Integration
+✅ Build real-world products
+✅ Deploy public projects
+✅ Publish Chrome Extension — 150+ installs
+✅ Participate in Hackathons — Top 30 / 100+ teams
+✅ AI API Integration
 
-[⏳] Deep Full Stack Development
-[⏳] React Ecosystem Mastery
-[⏳] Backend Architecture
-[⏳] DSA + NeetCode
-[⏳] Production-grade Systems
-[⏳] Open Source Contributions
-```
+⏳ Deep Full Stack Development
+⏳ React Ecosystem Mastery
+⏳ Backend Architecture
+⏳ DSA + NeetCode
+⏳ Production-grade Systems
+⏳ Open Source Contributions
 
 ---
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/anakinskywalker0903">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anakinskywalker0903&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000&rank_icon=github&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/anakinskywalker0903">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anakinskywalker0903&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000&langs_count=8"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Rohit's%20GitHub%20Stats" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakinskywalker0903&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=FFFFFF&langs_count=8" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anakinskywalker0903&theme=github_dark" width="100%"/>
 
 </div>
 
+
 ---
 
-## 🔥 Streak Stats
+## 🔥 Contribution Stats
 
 <div align="center">
 
-<a href="https://github.com/anakinskywalker0903">
-  <img src="https://streak-stats.demolab.com/?user=anakinskywalker0903&theme=dark&hide_border=true&background=000000&ring=8B0000&fire=8B0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anakinskywalker0903&theme=radical&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B0000&sideLabels=8B0000&dates=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&hide_title=true&hide_rank=true" width="49%"/>
 
 </div>
 
@@ -239,27 +228,9 @@ Canvas-based brainstorming with AI-assisted ideation workflows. Built for creati
 
 <div align="center">
 
-<a href="https://github.com/anakinskywalker0903">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anakinskywalker0903&theme=github-compact&bg_color=000000&color=8B0000&line=8B0000&point=FFFFFF&hide_border=true&area=true&area_color=8B0000"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anakinskywalker0903&bg_color=0D1117&color=8B0000&line=8B0000&point=FFFFFF&hide_border=true&area=true&area_color=8B0000" width="100%"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anakinskywalker0903/anakinskywalker0903/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anakinskywalker0903/anakinskywalker0903/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anakinskywalker0903/anakinskywalker0903/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-> **Note:** The contribution snake requires a GitHub Actions workflow in your profile repo. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
 
 ---
 

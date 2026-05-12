@@ -195,18 +195,21 @@ Canvas-based brainstorming with AI-assisted ideation workflows. Built for creati
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakinskywalker0903&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Rohit's%20GitHub%20Stats" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakinskywalker0903&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=FFFFFF&langs_count=8" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anakinskywalker0903&theme=transparent" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anakinskywalker0903&theme=github_dark" width="100%"/>
 
 </div>
+
 
 ---
 

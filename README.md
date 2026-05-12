@@ -1,3 +1,5 @@
+# Rohit Dubey GitHub Profile README
+
 ````md
 <div align="center">
 
@@ -194,15 +196,11 @@ A cleaner and more practical railway planning experience focused on usability an
 
 ## 📊 AI / Data
 
-<p>
-
 * Pandas
 * NumPy
 * Matplotlib
 * Prompt Engineering
 * AI API Integration
-
-</p>
 
 ---
 
@@ -344,3 +342,4 @@ A cleaner and more practical railway planning experience focused on usability an
 
 </div>
 ```
+

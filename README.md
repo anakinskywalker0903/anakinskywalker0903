@@ -33,6 +33,8 @@ I'm a Computer Science (AI & ML) student at **VIT Bhopal University** who enjoys
 
 Most of what I build starts the same way: something annoys me enough that I decide to fix it.
 
+> *"Most of my projects begin with a simple thought: someone else shouldn't have to struggle with this problem either."*
+
 ---
 
 ## 🏆 Featured Work
@@ -43,6 +45,40 @@ Most of what I build starts the same way: something annoys me enough that I deci
 | 🥈 **[Brainstormzz](https://brainstormzz.vercel.app/)** | Canvas-based AI ideation tool | Live |
 | 🥉 **[NoteLift](https://chrome.google.com/webstore/detail/appchfdfnjlebnpabaocabfjconhemjp)** | Chrome extension for fast note-taking — 150+ installs | Published |
 | 🏗 **[RailDost](https://github.com/anakinskywalker0903/raildost)** | Smart railway journey planning platform | In Progress |
+
+### 🏗️ RailDost — *Smart railway journey planning platform*
+
+Currently being developed toward a production-ready architecture.
+
+| Focus Area | Vision |
+|-----------|--------|
+| 🗺️ Journey planning | Better route search & travel flow |
+| 🎯 User-first | Designed around actual traveller needs |
+| 🏗️ Architecture | Scalable improvements ongoing |
+
+**Tech:** `JavaScript` `Web APIs` `Frontend Development`
+
+### 📝 NoteLift — *Chrome Extension for fast productivity note-taking*
+
+> 🔗 **Repo:** [github.com/anakinskywalker0903/NoteLift](https://github.com/anakinskywalker0903/NoteLift)
+> 🔗 **Chrome Web Store:** [Install NoteLift](https://chrome.google.com/webstore/detail/appchfdfnjlebnpabaocabfjconhemjp)
+
+| Metric | Value |
+|--------|-------|
+| ⭐ Installs | **150+ users** |
+| 🧩 Type | Browser-integrated note capture |
+| 🚢 Status | **Publicly shipped product** |
+
+**Tech:** `JavaScript` `HTML` `CSS` `Chrome Extension API`
+
+### 💡 Brainstormzz — *Interactive AI-powered ideation platform*
+
+> 🔗 **Repo:** [github.com/anakinskywalker0903/Brainstormzz](https://github.com/anakinskywalker0903/Brainstormzz)
+> 🔗 **Live Demo:** [brainstormzz.vercel.app](https://brainstormzz.vercel.app/)
+
+Canvas-based brainstorming with AI-assisted ideation workflows. Built for creative thinking sessions with modern UI experimentation.
+
+**Tech:** `React` `AI Integration` `Frontend Engineering` `Vercel`
 
 ---
 
@@ -66,20 +102,20 @@ Designed and developed a production website: custom UI, responsive layout, SEO b
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,javascript"/></p>
+### 💻 Languages
+<p><img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" /></p>
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,java,python"/></p>
+### 🌐 Frontend
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></p>
 
-**Database & Cloud**
-<p><img src="https://skillicons.dev/icons?i=supabase,vercel,netlify"/></p>
+### ⚙️ Backend & Cloud
+<p><img src="https://skillicons.dev/icons?i=nodejs,supabase,vercel,netlify" /></p>
 
-**AI / Data**
+### 📊 AI / Data
 Pandas · NumPy · Matplotlib · Prompt Engineering · AI API Integration
 
-**Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/></p>
+### 🧰 Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,figma" /></p>
 
 ---
 
@@ -91,135 +127,6 @@ Pandas · NumPy · Matplotlib · Prompt Engineering · AI API Integration
 - Vercel CI/CD
 - Responsive Design
 - Accessibility (ARIA)
-
----
-
-## 🎓 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Applied Machine Learning in Python | University of Michigan (Coursera) |
-| Career Essentials in GitHub Professional Certificate | GitHub |
-| Practical GitHub Actions | GitHub |
-| Practical GitHub Code Search | GitHub |
-| Practical GitHub Copilot | GitHub |
-| Power BI Dashboards for Beginners | LinkedIn Learning |
-| Learning Power BI Desktop | LinkedIn Learning |
-| Data Visualization in Python with Dash | — |
-
-## 👥 Leadership & Clubs
-
-| Role | Organisation |
-|---|---|
-| Finance Co-Lead | Groovity |
-| Finance Team Member | GSoC |
-| AI Club — Event Team | 2+ Years |
-| Defence Warrior Club | Logistics Team |
-| Startup Club | Event Team |
-| Team AVITAR BAJA | Roll Cage Member |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakinskywalker0903&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=FFFFFF&langs_count=8" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anakinskywalker0903&theme=radical&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B0000&sideLabels=8B0000&dates=FFFFFF" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anakinskywalker0903&bg_color=0D1117&color=8B0000&line=8B0000&point=FFFFFF&hide_border=true&area=true&area_color=8B0000" width="100%"/>
-
-</div>
-
----
-
-## 🌌 Learning Philosophy
-
-I don't learn technologies to add them to a resume — I learn them by building products. Every project teaches me something new, from DNS and deployment to analytics, accessibility, and performance optimization. That's the approach I plan to follow throughout my career.
-
----
-
-<div align="center">
-
-Building products. Learning relentlessly. Shipping continuously.
-
-🌐 **[rohitdubey.dev](https://rohitdubey.dev)**
-
-<a href="https://github.com/anakinskywalker0903"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rohit-dubey-41191319a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<sub><i>May the force be with your deployments.</i></sub>
-
-</div>
-. Currently being developed toward a production-ready architecture.
-
-| Focus Area | Vision |
-|-----------|--------|
-| 🗺️ Journey planning | Better route search & travel flow |
-| 🎯 User-first | Designed around actual traveller needs |
-| 🏗️ Architecture | Scalable improvements ongoing |
-
-**Tech:** `JavaScript` `Web APIs` `Frontend Development`
-
----
-
-### 📝 NoteLift — *Chrome Extension for fast productivity note-taking*
-
-> 🔗 **Repo:** [github.com/anakinskywalker0903/NoteLift](https://github.com/anakinskywalker0903/NoteLift)
-> 🔗 **Chrome Web Store:** [Install NoteLift](https://chrome.google.com/webstore/detail/appchfdfnjlebnpabaocabfjconhemjp)
-
-| Metric | Value |
-|--------|-------|
-| ⭐ Installs | **150+ users** |
-| 🧩 Type | Browser-integrated note capture |
-| 🚢 Status | **Publicly shipped product** |
-
-**Tech:** `JavaScript` `HTML` `CSS` `Chrome Extension API`
-
----
-
-### 💡 Brainstormzz — *Interactive AI-powered ideation platform*
-
-> 🔗 **Repo:** [github.com/anakinskywalker0903/Brainstormzz](https://github.com/anakinskywalker0903/Brainstormzz)
-> 🔗 **Live Demo:** [brainstormzz.vercel.app](https://brainstormzz.vercel.app/)
-
-Canvas-based brainstorming with AI-assisted ideation workflows. Built for creative thinking sessions with modern UI experimentation.
-
-**Tech:** `React` `AI Integration` `Frontend Engineering` `Vercel`
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-</p>
-
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,vercel,netlify" />
-</p>
-
-### 📊 AI / Data
-- Pandas · NumPy · Matplotlib
-- Prompt Engineering · AI API Integration
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,figma" />
-</p>
 
 ---
 
@@ -276,13 +183,11 @@ Canvas-based brainstorming with AI-assisted ideation workflows. Built for creati
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=Rohit's%20GitHub%20Stats" width="49%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakinskywalker0903&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=FFFFFF&langs_count=8" width="49%"/>
 
 <br/><br/>
@@ -291,19 +196,13 @@ Canvas-based brainstorming with AI-assisted ideation workflows. Built for creati
 
 </div>
 
-
----
-
 ## 🔥 Contribution Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anakinskywalker0903&theme=radical&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B0000&sideLabels=8B0000&dates=FFFFFF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=anakinskywalker0903&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&hide_title=true&hide_rank=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anakinskywalker0903&theme=radical&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B0000&sideLabels=8B0000&dates=FFFFFF" width="100%"/>
 
 </div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -315,16 +214,19 @@ Canvas-based brainstorming with AI-assisted ideation workflows. Built for creati
 
 ---
 
-## 🌌 Philosophy
+## 🌌 Learning Philosophy
 
-> *"Most of my projects begin with a simple thought:*
-> *someone else shouldn't have to struggle with this problem either."*
+I don't learn technologies to add them to a resume — I learn them by building products. Every project teaches me something new, from DNS and deployment to analytics, accessibility, and performance optimization. That's the approach I plan to follow throughout my career.
 
 ---
 
 ## 📫 Connect With Me
 
 <div align="center">
+
+Building products. Learning relentlessly. Shipping continuously.
+
+🌐 **[rohitdubey.dev](https://rohitdubey.dev)**
 
 <a href="https://github.com/anakinskywalker0903">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -343,4 +245,3 @@ Canvas-based brainstorming with AI-assisted ideation workflows. Built for creati
 <sub><i>"May the force be with your deployments."</i></sub>
 
 </div>
-hu
